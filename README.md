@@ -32,7 +32,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original
   ##
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HielSaraiva&bg_color=0d1117&color=ffffff&line=00ff33&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  ##
-
-  
