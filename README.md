@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+my+name+is+Hiel+Saraiva;I'm+from+Brazil;I'm+a+Computer+Engineering+Student+at+IFCE;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CCFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+my+name+is+Hiel+Saraiva;I'm+from+Brazil;I'm+a+Computer+Engineering+Student+at+IFCE;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
   ##
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HielSaraiva&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=228B22&text_color=c9d1d9&bg_color=0d1117" alt="Hiel Saraiva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HielSaraiva&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HielSaraiva&show_icons=true&count_private=true&hide_border=true&title_color=0033FF&icon_color=0033FF&text_color=c9d1d9&bg_color=0d1117" alt="Hiel Saraiva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HielSaraiva&layout=compact&hide_border=true&title_color=0033FF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
   ##
@@ -33,4 +33,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordm
 
   ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HielSaraiva&bg_color=0d1117&color=ffffff&line=00ff33&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HielSaraiva&bg_color=0d1117&color=ffffff&line=0033FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
