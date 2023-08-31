@@ -10,7 +10,7 @@ Sempre gostei muito da área de exatas, tanto que coleciono algumas premiações
 * Medalha de Bronze nas Olimpíadas: _**Canguru de Matemática 2017**_, _**Olimpíada Brasileira de Robótica (OBR) 2018**_ e _**Olimpíada Brasileira de Astronomia e Astronáutica (OBA) 2018**_.
 * Menção Honrosa na _**Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP) 2018**_.
 
-Meu primeiro contato com Algoritmos e Lógica de Programação foi durante a preparação para a _**OBR**_, foi quando despertou meu interesse pela área de Programação. Com o ingresso no IFCE tive a oportunidade de explorar linguagens como **C**, **Dart** e **Java** para fins de crescimento acadêmico.
+Meu primeiro contato com Algoritmos e Lógica de Programação foi durante a preparação para a _**OBR**_, foi quando despertou meu interesse pela área de Programação. Com o ingresso no IFCE tive a oportunidade de explorar linguagens como **C**, **Dart** e **Java** para fins de crescimento acadêmico e verticalização profissional.
 
 
   ##
