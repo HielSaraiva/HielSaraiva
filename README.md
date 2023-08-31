@@ -15,7 +15,7 @@ Meu primeiro contato com Algoritmos e Lógica de Programação foi durante a pre
 
   ##
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HielSaraiva&show_icons=true&count_private=true&hide_border=false&title_color=00c476&icon_color=0a56fa&text_color=c9d1d9&bg_color=141624" alt="Hiel Saraiva github stats" /> 
+  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HielSaraiva&show_icons=true&count_private=true&hide_border=false&title_color=00c476&icon_color=0a56fa&text_color=c9d1d9&bg_color=141624" alt="Hiel Saraiva github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HielSaraiva&layout=compact&hide_border=false&title_color=00c476&text_color=FFFFFF&bg_color=141624" />
 </div>
 
