@@ -1,9 +1,9 @@
   ## 🎯 Olá! Eu sou Hiel Saraiva!
 Olá, me chamo Hiel Saraiva e atualmente sou graduando em Engenharia de Computação pelo Instituto Federal do Ceará (IFCE).
 
-Meu primeiro contato com Algoritmos e Lógica de Programação foi durante a preparação para a _**OBR**_, foi quando despertou meu interesse pela área de Programação. Com o ingresso no IFCE tive a oportunidade não só de explorar linguagens de programação, como **C**, **Dart**, **Java** e **Python**, para fins de crescimento acadêmico, mas também  de me aprofundar em áreas mais técnicas do curso de engenharia, como eletrônica, arquitetura de computadores e estrutura de dados. 
+Meu primeiro contato com Algoritmos e Lógica de Programação foi durante a preparação para a OBR, foi quando despertou meu interesse pela área de Programação. Com o ingresso no IFCE tive a oportunidade não só de explorar linguagens de programação, como C, Dart, Java e Python, para fins de crescimento acadêmico, mas também de me aprofundar em áreas mais técnicas do curso de engenharia, como eletrônica, arquitetura de computadores e estrutura de dados.
 
-Além disso, sempre busco adquirir novos conhecimentos através de cursos extracurriculares. Atualmente estou no 3º semestre do curso e um dos meus objetivos futuros é me capacitar cada vez mais sobre Aprendizado de Máquina e Ciência de Dados.
+Além disso, sempre busco adquirir novos conhecimentos através de cursos extracurriculares. Atualmente estou no 3º semestre do curso e um dos meus objetivos futuros é aprofundar meus estudos sobre Aprendizado de Máquina e Ciência de Dados.
 
   ## Technologies used
   
