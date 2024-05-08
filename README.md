@@ -1,16 +1,9 @@
-
-
-
   ## 🎯 Olá! Eu sou Hiel Saraiva!
 Olá, me chamo Hiel Saraiva e atualmente sou graduando em Engenharia de Computação pelo Instituto Federal do Ceará (IFCE).
 
-Sempre gostei muito da área de exatas, tanto que coleciono algumas premiações em olímpiadas de conhecimento, como:
+Meu primeiro contato com Algoritmos e Lógica de Programação foi durante a preparação para a _**OBR**_, foi quando despertou meu interesse pela área de Programação. Com o ingresso no IFCE tive a oportunidade não só de explorar linguagens de programação, como **C**, **Dart**, **Java** e **Python**, para fins de crescimento acadêmico, mas também  de me aprofundar em áreas mais técnicas do curso de engenharia, como eletrônica, arquitetura de computadores e estrutura de dados. 
 
-* Medalha de Prata na _**Olimpíada Canguru de Matemática 2018**_.
-* Medalha de Bronze nas Olimpíadas: _**Canguru de Matemática 2017**_, _**Olimpíada Brasileira de Robótica (OBR) 2018**_ e _**Olimpíada Brasileira de Astronomia e Astronáutica (OBA) 2018**_.
-* Menção Honrosa na _**Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP) 2018**_.
-
-Meu primeiro contato com Algoritmos e Lógica de Programação foi durante a preparação para a _**OBR**_, foi quando despertou meu interesse pela área de Programação. Com o ingresso no IFCE tive a oportunidade de explorar linguagens como **C**, **Dart** e **Java** para fins de crescimento acadêmico e verticalização profissional.
+Além disso, sempre busco adquirir novos conhecimentos através de cursos extracurriculares. Atualmente estou no 3º semestre do curso e um dos meus objetivos futuros é me capacitar cada vez mais sobre Aprendizado de Máquina e Ciência de Dados.
 
   ## Technologies used
   
