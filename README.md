@@ -1,14 +1,20 @@
-  ## 🎯 Olá! Eu sou Hiel Saraiva!
+  ## [US] 🎯 Hello! I'm Hiel Saraiva!
+Hello, my name is Hiel Saraiva, and I am currently pursuing a degree in Computer Engineering at the Federal Institute of Ceará (IFCE).
+
+I am passionate about technology, software development, and innovative solutions. My primary focus is on back-end development with Java (Spring Framework) and web development with Django, always striving to enhance my knowledge in software architecture, microservices, and asynchronous processing. I have a strong interest in continuous learning and am always exploring new technologies and different areas of computing.
+
+Here, you can learn more about my academic journey, projects, and professional interests.
+  
+  ## [BR]🎯 Olá! Eu sou Hiel Saraiva!
 Olá, me chamo Hiel Saraiva e atualmente sou graduando em Engenharia de Computação pelo Instituto Federal do Ceará (IFCE).
 
-Meu primeiro contato com Algoritmos e Lógica de Programação foi durante a preparação para a OBR, foi quando despertou meu interesse pela área de Programação. Com o ingresso no IFCE tive a oportunidade não só de explorar linguagens de programação, como C, Dart, Java e Python, para fins de crescimento acadêmico, mas também de me aprofundar em áreas mais técnicas do curso de engenharia, como eletrônica, arquitetura de computadores e estrutura de dados.
+Sou apaixonado por tecnologia, desenvolvimento de software e soluções inovadoras. Meu foco principal está no desenvolvimento back-end com Java (Spring Framework) e desenvolvimento web com Django, sempre buscando aprimorar meus conhecimentos em arquitetura de software, microsserviços e processamento assíncrono. Tenho um grande interesse por aprendizado contínuo e estou sempre explorando novas tecnologias e diferentes áreas da computação.
 
-Além disso, sempre busco adquirir novos conhecimentos através de cursos extracurriculares e de desenvolvimento de projetos para explorar os conhecimentos aprendidos, sejam projetos de jogos, APIs, interfaces gráficas ou banco de dados. Atualmente, o meu objetivo é aprender mais sobre Java e suas tecnologias, já um dos meus objetivos futuros é aprofundar meus estudos sobre Aprendizado de Máquina e Ciência de Dados.
+Aqui, você pode conhecer mais sobre minha trajetória acadêmica, projetos e interesses profissionais.
 
   ##
 
 <div> 
-  <a href="https://www.instagram.com/hielsaraiva_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:hielsaraiva11.hs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/hielsaraiva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
