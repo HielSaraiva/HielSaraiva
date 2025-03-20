@@ -1,16 +1,20 @@
   ## [EN] 🎯 Hello! I'm Hiel Saraiva!
 Hello, my name is Hiel Saraiva, and I am currently pursuing a degree in Computer Engineering at the Federal Institute of Ceará (IFCE).
 
-I am passionate about technology, software development, and innovative solutions. My primary focus is on back-end development with Java (Spring Framework) and web development with Django, always striving to enhance my knowledge in software architecture, microservices, and asynchronous processing. I have a strong interest in continuous learning and am always exploring new technologies and different areas of computing.
+I am passionate about learning new technologies and exploring different areas of computing, always striving to enhance my skills in software architecture, microservices, and asynchronous processing.
 
-Here, you can learn more about my academic journey, projects, and professional interests.
+Beyond the academic environment, I am constantly studying and improving my qualifications through courses, research, and practical projects. I have worked on projects such as an air conditioning management system using MQTT and ESP32, as well as web and desktop applications with Spring Framework, JavaFX, and Django.
+
+I am always looking to expand my expertise in the Java ecosystem while also exploring new areas such as Machine Learning and Data Science.
   
   ## [PT]🎯 Olá! Eu sou Hiel Saraiva!
 Olá, me chamo Hiel Saraiva e atualmente sou graduando em Engenharia de Computação pelo Instituto Federal do Ceará (IFCE).
 
-Sou apaixonado por tecnologia, desenvolvimento de software e soluções inovadoras. Meu foco principal está no desenvolvimento back-end com Java (Spring Framework) e desenvolvimento web com Django, sempre buscando aprimorar meus conhecimentos em arquitetura de software, microsserviços e processamento assíncrono. Tenho um grande interesse por aprendizado contínuo e estou sempre explorando novas tecnologias e diferentes áreas da computação.
+Sou apaixonado por aprender novas tecnologias e explorar diferentes áreas da computação, sempre buscando aprimorar minhas habilidades em arquitetura de software, microsserviços e processamento assíncrono.
 
-Aqui, você pode conhecer mais sobre minha trajetória acadêmica, projetos e interesses profissionais.
+Além do ambiente acadêmico, estou sempre estudando e me qualificando, seja por meio de cursos, pesquisas ou desenvolvimento de projetos práticos. Já trabalhei em projetos como um sistema de gestão de ares-condicionados via MQTT e ESP32, além de aplicações web e desktop com Spring Framework, JavaFX e Django.
+
+Busco constantemente expandir minha expertise no ecossistema Java, ao mesmo tempo que exploro novas áreas, como Aprendizado de Máquina e Ciência de Dados.
 
   ##
 
@@ -30,4 +34,5 @@ Aqui, você pode conhecer mais sobre minha trajetória acadêmica, projetos e in
 
   ##
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HielSaraiva&bg_color=0d1117&color=ffffff&line=0033FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![Ashutosh's github activity graph
+](https://github-readme-activity-graph.vercel.app/graph?username=HielSaraiva&bg_color=0d1117&color=ffffff&line=0033FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
