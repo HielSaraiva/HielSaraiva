@@ -1,20 +1,16 @@
   ## [EN] 🎯 Hello! I'm Hiel Saraiva!
-Hello, my name is Hiel Saraiva, and I am currently pursuing a degree in Computer Engineering at the Federal Institute of Ceará (IFCE).
+Hello, my name is Hiel Saraiva, and I’m a Computer Engineering student at the Federal Institute of Ceará (IFCE), with hands-on experience in backend development using Java (Spring Framework) and web development with Django. I'm passionate about software architecture, microservices, and asynchronous processing, always seeking to refine my technical skills.
 
-I am passionate about learning new technologies and exploring different areas of computing, always striving to enhance my skills in software architecture, microservices, and asynchronous processing.
+Beyond academia, I continuously invest in learning through courses, research, and practical projects. I've contributed to projects such as an air conditioner management system using MQTT and ESP32, as well as web and desktop applications built with Spring, JavaFX, and Django.
 
-Beyond the academic environment, I am constantly studying and improving my qualifications through courses, research, and practical projects. I have worked on projects such as an air conditioning management system using MQTT and ESP32, as well as web and desktop applications with Spring Framework, JavaFX, and Django.
-
-I am always looking to expand my expertise in the Java ecosystem while also exploring new areas such as Machine Learning and Data Science.
+Currently, I'm deepening my expertise in both the Java and Django ecosystems, while also exploring new areas like Machine Learning and Data Science, aiming to broaden my technical horizons and engage in innovative, challenging projects.
   
   ## [PT]🎯 Olá! Eu sou Hiel Saraiva!
-Olá, me chamo Hiel Saraiva e atualmente sou graduando em Engenharia de Computação pelo Instituto Federal do Ceará (IFCE).
+Olá, me chamo Hiel Saraiva e sou estudante de Engenharia de Computação no Instituto Federal do Ceará (IFCE) com experiência prática no desenvolvimento back-end utilizando Java (Spring Framework) e no desenvolvimento web com Django. Tenho grande interesse em arquitetura de software, microsserviços e processamento assíncrono, e estou sempre em busca de aprimorar minhas habilidades nessas áreas.
 
-Sou apaixonado por aprender novas tecnologias e explorar diferentes áreas da computação, sempre buscando aprimorar minhas habilidades em arquitetura de software, microsserviços e processamento assíncrono.
+Fora do ambiente acadêmico, me dedico continuamente à aprendizagem por meio de cursos, pesquisas e projetos práticos. Já participei do desenvolvimento de sistemas como uma plataforma de gestão de ar-condicionados via MQTT e ESP32, além de aplicações web e desktop com Spring, JavaFX e Django.
 
-Além do ambiente acadêmico, estou sempre estudando e me qualificando, seja por meio de cursos, pesquisas ou desenvolvimento de projetos práticos. Já trabalhei em projetos como um sistema de gestão de ares-condicionados via MQTT e ESP32, além de aplicações web e desktop com Spring Framework, JavaFX e Django.
-
-Busco constantemente expandir minha expertise no ecossistema Java, ao mesmo tempo que exploro novas áreas, como Aprendizado de Máquina e Ciência de Dados.
+Atualmente, foco no aprofundamento dos ecossistemas Java e Django, ao mesmo tempo que exploro novas áreas como Aprendizado de Máquina e Ciência de Dados, com o objetivo de expandir meu leque de competências técnicas e contribuir em projetos desafiadores e inovadores.
 
   ##
 
