@@ -5,7 +5,7 @@ Beyond academia, I continuously invest in learning through courses, research, an
 
 Currently, I'm deepening my expertise in both the Java and Django ecosystems, while also exploring new areas like Machine Learning and Data Science, aiming to broaden my technical horizons and engage in innovative, challenging projects.
   
-  ## [PT]🎯 Olá! Eu sou Hiel Saraiva!
+  ## [PT] 🎯 Olá! Eu sou Hiel Saraiva!
 Olá, me chamo Hiel Saraiva e sou estudante de Engenharia de Computação no Instituto Federal do Ceará (IFCE) com experiência prática no desenvolvimento back-end utilizando Java (Spring Framework) e no desenvolvimento web com Django. Tenho grande interesse em arquitetura de software, microsserviços e processamento assíncrono, e estou sempre em busca de aprimorar minhas habilidades nessas áreas.
 
 Fora do ambiente acadêmico, me dedico continuamente à aprendizagem por meio de cursos, pesquisas e projetos práticos. Já participei do desenvolvimento de sistemas como uma plataforma de gestão de ar-condicionados via MQTT e ESP32, além de aplicações web e desktop com Spring, JavaFX e Django.
