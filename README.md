@@ -1,20 +1,21 @@
-<h1 align="center">Olá, eu sou o Hiel Saraiva 👋</h1>
+<h1 align="center">Hi there, I'm Hiel Saraiva 👋</h1>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/hielsaraiva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
   <a href="https://github.com/HielSaraiva" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a>
 </p>
 
-### Sobre Mim
+### About Me
 
-Sou estudante de Engenharia de Computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE). Tenho experiência em desenvolvimento de sistemas, com foco em back-end utilizando **Python (Django)** e **Java (Spring Framework)**.
+I'm a Computer Engineering student at the Federal Institute of Education, Science and Technology of Ceará (IFCE). I have experience in system development, with a strong focus on back-end using **Python (Django)** and **Java (Spring Framework)**.
 
-Atualmente, sou Estagiário em Desenvolvimento de Sistemas no **LAPADA - Laboratório de Pesquisa Aplicada ao Desenvolvimento em Automação**. Lá, desenvolvo e aprimoro funcionalidades para o sistema IoT **ChronoAir**, utilizando Python, Django e hardware ESP32, o que resultou em uma solução robusta para automação residencial e empresarial.
+Currently, I work as a Systems Development Intern at **LAPADA - Applied Research Laboratory for Development in Automation**. There, I develop and enhance features for the IoT system **ChronoAir**, using Python, Django, and ESP32 hardware, resulting in a robust solution for home and business automation.
 
-Possuo conhecimentos sólidos em arquitetura de software, processamento assíncrono (**Celery**, **RabbitMQ**), persistência de dados e automação. Minha paixão é criar soluções robustas e escaláveis que integram software e hardware para resolver problemas complexos.
+I have solid knowledge in software architecture, asynchronous processing (**Celery**, **RabbitMQ**), data persistence, and automation. I'm passionate about creating robust and scalable solutions that integrate software and hardware to solve complex problems.
 
-### Habilidades Técnicas
+### Technical Skills
 
-#### Linguagens
+#### Programming Languages
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge" />
@@ -31,11 +32,11 @@ Possuo conhecimentos sólidos em arquitetura de software, processamento assíncr
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js Badge" />
-  <img src="https://img.shields.io/badge/JavaFX-86B520?style=for-the-badge&logo=javafx&logoColor=white" alt="JavaFX Badge" />
+  <img src="https://img.shields.io/badge/JavaFX-86B520?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX Badge" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate Badge" />
 </div>
 
-#### Banco de Dados
+#### Databases
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
@@ -44,18 +45,18 @@ Possuo conhecimentos sólidos em arquitetura de software, processamento assíncr
   <img src="https://img.shields.io/badge/H2-448202?style=for-the-badge&logo=h2&logoColor=white" alt="H2 Badge" />
 </div>
 
-#### Mensageria & Processamento Assíncrono
+#### Messaging & Asynchronous Processing
 <div align="center">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ Badge" />
   <img src="https://img.shields.io/badge/HiveMQ-0097FF?style=for-the-badge&logo=hivemq&logoColor=white" alt="HiveMQ Badge" />
   <img src="https://img.shields.io/badge/Celery-37838A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery Badge" />
 </div>
 
-#### Testes & Controle de Versão
+#### Testing & Version Control
 <div align="center">
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest Badge" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit Badge" />
-  <img src="https://img.shields.io/badge/Mockito-88C800?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito Badge" />
+  <img src="https://img.shields.io/badge/Mockito-88C800?style=for-the-badge&logo=java&logoColor=white" alt="Mockito Badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
 </div>
@@ -63,7 +64,7 @@ Possuo conhecimentos sólidos em arquitetura de software, processamento assíncr
 <br>
 
 <div align="center">
-  <h3>Estatísticas do GitHub</h3>
+  <h3>GitHub Stats</h3>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HielSaraiva&show_icons=true&count_private=true&hide_border=false&title_color=00c476&icon_color=0a56fa&text_color=c9d1d9&bg_color=141624" alt="Hiel Saraiva github stats" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HielSaraiva&layout=compact&hide_border=false&title_color=00c476&text_color=FFFFFF&bg_color=141624" alt="Hiel Saraiva top languages" />
   <br/>
