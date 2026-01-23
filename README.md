@@ -60,14 +60,3 @@ I have solid knowledge in software architecture, asynchronous processing (Celery
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
 </div>
-
-<br>
-
-<div align="center">
-  <h3>GitHub Stats</h3>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HielSaraiva&show_icons=true&count_private=true&hide_border=false&title_color=00c476&icon_color=0a56fa&text_color=c9d1d9&bg_color=141624" alt="Hiel Saraiva github stats" />
-  <img width="49%" height="173px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HielSaraiva&layout=compact&hide_border=false&title_color=00c476&text_color=FFFFFF&bg_color=141624" alt="Hiel Saraiva top languages" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HielSaraiva&bg_color=0d1117&color=ffffff&line=0033FF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
