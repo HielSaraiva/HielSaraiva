@@ -9,7 +9,7 @@
 
 I'm a Computer Engineering student at the Federal Institute of Education, Science and Technology of Ceará (IFCE). I focus on building reliable back-end systems and software solutions that integrate seamlessly with hardware and real-world devices.
 
-I have hands-on experience developing web applications and APIs using Python (Django) and Java (Spring), as well as working with IoT environments based on the ESP32 ecosystem. My work often involves designing data flows, integrating message brokers, and ensuring secure and scalable communication between devices and servers.
+I have hands-on experience developing web applications and APIs using Python (Django) and Java (Spring), and working with diverse IoT environments. This includes both microcontroller-based solutions, such as ESP32 projects, and proprietary IoT platforms used in enterprise and industrial contexts. My work often involves designing data flows, integrating message brokers, and ensuring secure, scalable communication between devices and servers.
 
 I'm particularly interested in software architecture, asynchronous processing, automation, system integration, and software testing. I enjoy solving complex problems by combining clean code, solid design principles, and practical engineering decisions.
 
@@ -32,7 +32,7 @@ I'm particularly interested in software architecture, asynchronous processing, a
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js Badge" />
-  <img src="https://img.shields.io/badge/JavaFX-86B520?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX Badge" />
+  <img src="https://img.shields.io/badge/JavaFX-2C2255?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX Badge" />  
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate Badge" />
 </div>
 
@@ -42,21 +42,50 @@ I'm particularly interested in software architecture, asynchronous processing, a
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge" />
   <img src="https://img.shields.io/badge/H2-448202?style=for-the-badge&logo=h2&logoColor=white" alt="H2 Badge" />
 </div>
 
 #### Messaging & Asynchronous Processing
 <div align="center">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ Badge" />
+  <img src="https://img.shields.io/badge/ActiveMQ%20Artemis-CC0000?style=for-the-badge&logo=apache&logoColor=white" alt="ActiveMQ Artemis Badge" />
   <img src="https://img.shields.io/badge/HiveMQ-0097FF?style=for-the-badge&logo=hivemq&logoColor=white" alt="HiveMQ Badge" />
   <img src="https://img.shields.io/badge/Celery-37838A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery Badge" />
 </div>
 
-#### Testing & Version Control
+#### Testing
 <div align="center">
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest Badge" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit Badge" />
   <img src="https://img.shields.io/badge/Mockito-88C800?style=for-the-badge&logo=java&logoColor=white" alt="Mockito Badge" />
+  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Testcontainers Badge" />
+</div>
+
+#### Version Control
+<div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge" />
+</div>
+
+#### CI/CD & DevOps
+<div align="center">
+  <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="TeamCity Badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions Badge" />
+  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD Badge" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven Badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
+</div>
+
+#### Agile Methodologies
+<div align="center">
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum Badge" />
+  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge" alt="Kanban Badge" />
+</div>
+
+#### Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/Portuguese-Native-2E8B57?style=for-the-badge" alt="Portuguese Badge" />
+  <img src="https://img.shields.io/badge/English-Intermediate-1E90FF?style=for-the-badge" alt="English Badge" />
 </div>
