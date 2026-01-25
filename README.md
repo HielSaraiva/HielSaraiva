@@ -7,11 +7,11 @@
 
 ### About Me
 
-I'm a Computer Engineering student at the Federal Institute of Education, Science and Technology of Ceará (IFCE). I have experience in system development, with a strong focus on back-end using Python (Django) and Java (Spring Framework).
+I'm a Computer Engineering student at the Federal Institute of Education, Science and Technology of Ceará (IFCE). I focus on building reliable back-end systems and software solutions that integrate seamlessly with hardware and real-world devices.
 
-I previously worked as a Systems Development Intern at LAPADA - Applied Research Laboratory for Development in Automation, where I developed and improved features for the IoT system ChronoAir, integrating Python, Django, and ESP32 hardware to create a robust solution for home and business automation.
+I have hands-on experience developing web applications and APIs using Python (Django) and Java (Spring), as well as working with IoT environments based on the ESP32 ecosystem. My work often involves designing data flows, integrating message brokers, and ensuring secure and scalable communication between devices and servers.
 
-I have solid knowledge in software architecture, asynchronous processing (Celery, RabbitMQ), data persistence, and automation. I'm passionate about designing robust and scalable solutions that combine software and hardware to solve complex real-world problems.
+I'm particularly interested in software architecture, asynchronous processing, automation, system integration, and software testing. I enjoy solving complex problems by combining clean code, solid design principles, and practical engineering decisions.
 
 ### Technical Skills
 
